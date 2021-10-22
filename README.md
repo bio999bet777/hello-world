@@ -1,2 +1,3 @@
 # hello-world
-home
+home 
+hello world. ฉันอยากจะเก่ง
